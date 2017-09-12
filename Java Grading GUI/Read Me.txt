@@ -1,0 +1,8 @@
+The goal was to create prompts to:
+
+1 - Prompt to enter number of students
+2 - Prompt to enter number of exams per student for the semester
+3 - Prompt student's score for each exam
+4 - Output student's grades for the semester
+
+
