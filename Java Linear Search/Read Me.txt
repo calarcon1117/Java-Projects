@@ -1,0 +1,9 @@
+Asssignment:
+
+To implement the Linear Search algorithm. Your Java program will ask
+the user to input 10 letters (e.g., e, c, z, x, k, m, o, a, d, f) and
+your program stores these ten letters into array. Then you will ask
+the user what letter the user wants to search. If the letter is in
+the array, your program should return the position of the letter in
+the array. If the array does not have this letter, a message “Letter
+is not found” should display.
