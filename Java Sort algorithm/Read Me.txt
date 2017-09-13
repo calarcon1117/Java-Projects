@@ -1,0 +1,6 @@
+Selection Sorting Algorithm
+
+You Java program will ask the user to input 10 numbers and your program
+stores these ten numbers into array and sort these 10 numbers in
+descending order (largest number to smallest number). Your program
+will output the numbers in the sorted array.
